@@ -1,0 +1,141 @@
+    body {
+      color: #40514E;
+      margin:0;
+      text-align: center;
+      font-family: 'Merriweather', serif;
+
+
+    }
+    h1 {
+      color: #66BFBF;
+      margin: 50px auto 0 auto;
+      font-family: 'Sacramento', cursive;
+      font-size: 4rem;
+      line-height: 2;
+    }
+
+    h2 {
+      color: #66BFBF;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+    h3 {
+      color: #11999E;
+      font-family: 'Montserrat', sans-serif;
+    }
+    hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 3%;
+    border-color: #11999E;
+    margin: 60px auto 50px auto;
+    }
+    .code-skill-description {
+      width: 80%;
+    }
+    .chillies-skill-description {
+      width: 50%;
+    }
+
+    .hero-banner {
+      background-color: #E4F9F5;
+      padding-top: 100px;
+    }
+
+    .bottom-cloud {
+      position: absolute;
+    }
+
+    .top-cloud {
+      position: absolute;
+      top: 40px;
+      left: 1050px;
+    }
+
+    .pro {
+      text-decoration: underline;
+    }
+
+    .skill-row {
+      width:90%;
+      margin: 100px auto 100px 150px;
+      text-align: left;
+      line-height: 2;
+    }
+
+    .chillies  {
+      width: 21%;
+      float: right;
+      margin-right: 300px;
+    }
+
+    .code {
+      width: 25%;
+      float: left;
+      margin-right: 30px;
+      position: relative;
+      bottom: 40px;
+
+    }
+    .profile {
+      line-height: 2;
+      margin: 100px 80px 100px 80px;
+    }
+    .profile-img {
+      width: 10%;
+      border-radius: 50%;
+    }
+
+    .intro{
+    width: 30%;
+    margin: 20px auto 20px auto;
+    }
+
+.myButton {
+	background-color:#17afe6;
+	border-radius:28px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e0e2e3;
+  margin: 50px auto 50px auto;
+}
+.myButton:hover {
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer {
+  background-color: #66BFBF;
+  padding: 50px 0 5px;
+  margin-bottom: 0;
+}
+.footer-linkdin {
+  position: relative;
+  bottom: 25px;
+  color: #11999E;
+  text-decoration: none;
+}
+.footer-Facebook {
+  color: #11999E;
+  position: relative;
+  bottom: 25px;
+  text-decoration: none;
+  padding-left: 20px;
+
+}
+.copyright {
+color: #EAF6F6;
+position: relative;
+bottom: 20px;
+}
